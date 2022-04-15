@@ -1,0 +1,1 @@
+This analysis case study is the Capstone project for the Google Data Analytics Professional Certificate. The case study involves a fictional bike-share company based in Chicago, Cyclistic, that wants to start a new marketing strategy that will be key for future growth of the company.
